@@ -11,29 +11,29 @@ img{
     
 }
 
-.button{
-    width: 100px;
-    height: 40px;
-    border-radius: 9px;
-    background-color: rgb(37, 87, 224);
-    color: rgb(255, 255, 255);
-    margin-left: 15%;
-    line-height: 2rem;
-    padding-left: 1rem;
-    display: inline-block;
+.button {
+    margin-top: 4%;
+    padding-left: 15%;
     
 }
 
+.azzurro{
+    background-color: rgb(68, 130, 201);
+    height: 30px;
+    width: 60px;
+    border-radius: 10px;
+    padding: 4px;  
+    display: inline-flex;
+}
+
 .grey{
-    width: 40px;
-    height: 40px;
-    border-radius: 9px;
-    background-color: red;
-    color: grey;
-    margin-left: 15%;
-    line-height: 2rem;
-    padding-left: 1rem;
-    
+    background-color: rgb(80, 79, 79);
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    display: inline-flex;
+    font-size: 15px;
+    padding: 4px;
 }
 
 h1{
@@ -54,11 +54,11 @@ ul{
 
 main{
     padding-left: 15%;
-    background-color: grey;
+    background-color: lightgrey;
 }
 
 .pillola{
-    border-radius: 100%;
+    border-radius: 40px;
     font-size: 15px;
     color: white;
     
