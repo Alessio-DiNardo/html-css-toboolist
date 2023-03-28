@@ -70,6 +70,7 @@ main{
 
 .list{
     padding-left: 15%;
+    padding-top: 5%;
 }
 
 .viola{
@@ -82,4 +83,12 @@ main{
 
 .gialla{
     background-color: orange;
+}
+
+.rosa{
+    background-color: pink;
+}
+
+.verdino{
+    background-color: lightgreen;
 }
