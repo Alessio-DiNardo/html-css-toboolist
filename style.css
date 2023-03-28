@@ -15,10 +15,12 @@ img{
 }
 
 .button{
-    width: 30px;
-    border-radius: 20px;
+    width: 70px;
+    height: 40px;
+    border-radius: 10px;
     background-color: aqua;
     color: black;
+    padding-left: 15%;
 }
 
 h1{
