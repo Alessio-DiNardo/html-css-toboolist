@@ -20,15 +20,16 @@ img{
     margin-left: 15%;
     line-height: 2rem;
     padding-left: 1rem;
+    display: inline-block;
     
 }
 
 .grey{
-    width: 100px;
+    width: 40px;
     height: 40px;
     border-radius: 9px;
-    background-color: rgb(37, 87, 224);
-    color: rgb(255, 255, 255);
+    background-color: red;
+    color: grey;
     margin-left: 15%;
     line-height: 2rem;
     padding-left: 1rem;
@@ -56,7 +57,7 @@ main{
     background-color: grey;
 }
 
-.box{
+.pillola{
     border-radius: 100%;
     font-size: 15px;
     color: white;
@@ -64,9 +65,21 @@ main{
 }
 
 .blu{
-    background-color: red;
+    background-color: rgb(44, 30, 175);
 }
 
 .list{
     padding-left: 15%;
+}
+
+.viola{
+    background-color: blueviolet;
+}
+
+.verde{
+    background-color: green;
+}
+
+.gialla{
+    background-color: orange;
 }
