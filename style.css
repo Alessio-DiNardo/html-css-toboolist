@@ -4,9 +4,6 @@ padding: 0;
 box-sizing: border-box;
 }
 
-main{
-    background-color: grey;
-}
 
 img{
     width: 80px;
@@ -15,12 +12,27 @@ img{
 }
 
 .button{
-    width: 70px;
+    width: 100px;
     height: 40px;
-    border-radius: 10px;
-    background-color: aqua;
-    color: black;
-    padding-left: 15%;
+    border-radius: 9px;
+    background-color: rgb(37, 87, 224);
+    color: rgb(255, 255, 255);
+    margin-left: 15%;
+    line-height: 2rem;
+    padding-left: 1rem;
+    
+}
+
+.grey{
+    width: 100px;
+    height: 40px;
+    border-radius: 9px;
+    background-color: rgb(37, 87, 224);
+    color: rgb(255, 255, 255);
+    margin-left: 15%;
+    line-height: 2rem;
+    padding-left: 1rem;
+    
 }
 
 h1{
@@ -41,6 +53,7 @@ ul{
 
 main{
     padding-left: 15%;
+    background-color: grey;
 }
 
 .box{
