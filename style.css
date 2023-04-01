@@ -36,9 +36,12 @@ ul{
     padding: 2rem;
 }
 
+li{
+    padding-top: .85rem;
+}
+
 main{
     width: 65%;
-    background-color: blue;
     height: 600px;
     margin: 0 auto;
 }
@@ -56,8 +59,32 @@ section{
 
 }
 
-.todolist{
-    height: 500px;
+.pills{
+    padding: .25rem 1rem;
+    color: white;
+    border-radius: 1rem;
+    font-size: 15px;
+    
+}
+
+.pills-blue{
+    background-color: rgb(0, 217, 255);
+}
+
+.pills-violet{
+    background-color: violet;
+}
+.pills-green{
+    background-color: green;
+} 
+.pills-orange{
+    background-color: orange;
+}
+.pills-pink{
+    background-color: pink;
+}
+.pills-greens{
+    background-color: rgb(212, 247, 131);
 }
 
 .button{
@@ -70,7 +97,7 @@ section{
 
 .button-blu{
     color: white;
-    background-color: blue;
+    background-color: rgb(0, 217, 255);
     
 }
 
@@ -82,7 +109,19 @@ section{
     border: 1px solid;
 }
 
+.check{
+    color: green;
+    border-radius: 2rem;
+    border: solid 1px;
+    padding-right: 2px;
+    padding-right: 3px;
+    margin-right: 6px;}
 
-
-
+.cross{
+    color: rgb(128, 0, 0);
+    border-radius: 2rem;
+    border: solid 1px;
+    padding-right: 3px;
+    margin-right: 6px;
+}
 
