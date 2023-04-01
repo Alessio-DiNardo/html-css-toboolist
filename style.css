@@ -14,39 +14,14 @@ header{
     background-color: rgb(255, 255, 255);
     font-size: 2rem;
     padding: 2rem 2rem;
+    margin-bottom: 4rem;
 }
-
 
 img{
     width: 70px;
     vertical-align: middle;
     height: 67px;
     
-}
-
-.button {
-    margin-top: 4%;
-    padding-left: 15%;
-    
-}
-
-.azzurro{
-    background-color: rgb(68, 130, 201);
-    height: 30px;
-    width: 60px;
-    border-radius: 10px;
-    padding: 4px;  
-    display: inline-flex;
-}
-
-.grey{
-    background-color: rgb(80, 79, 79);
-    height: 30px;
-    width: 100px;
-    border-radius: 20px;
-    display: inline-flex;
-    font-size: 15px;
-    padding: 4px;
 }
 
 h1{
@@ -56,7 +31,6 @@ h1{
     
 }
 
-
 ul{
     list-style-type: none;
 
@@ -64,44 +38,28 @@ ul{
 
 main{
     width: 65%;
-    height: 700px;
+    background-color: blue;
+    height: 600px;
     margin: 0 auto;
-    padding-left: 15%;
+}
+
+section{
+    background-color: white;
+    padding-left: 4rem;
     
 }
 
-.pillola{
-    border-radius: 40px;
-    font-size: 15px;
-    color: white;
-    
+.taskbar{
+    padding-top: 4rem;
+    border-bottom: solid rgb(197, 193, 193);
+
 }
 
-.blu{
-    background-color: rgb(44, 30, 175);
+.todolist{
+    height: 500px;
 }
 
-.list{
-    padding-left: 15%;
-    padding-top: 5%;
-}
 
-.viola{
-    background-color: blueviolet;
-}
 
-.verde{
-    background-color: green;
-}
 
-.gialla{
-    background-color: orange;
-}
 
-.rosa{
-    background-color: pink;
-}
-
-.verdino{
-    background-color: lightgreen;
-}
