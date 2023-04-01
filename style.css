@@ -33,7 +33,7 @@ h1{
 
 ul{
     list-style-type: none;
-
+    padding: 2rem;
 }
 
 main{
@@ -46,6 +46,7 @@ main{
 section{
     background-color: white;
     padding-left: 4rem;
+    padding-bottom: 1rem;
     
 }
 
@@ -57,6 +58,28 @@ section{
 
 .todolist{
     height: 500px;
+}
+
+.button{
+    border: none;
+    border-radius: 5px;
+    padding: 0.35rem 0.8rem;
+    font-size: .75rem;
+    margin-right: 0.4rem;
+}
+
+.button-blu{
+    color: white;
+    background-color: blue;
+    
+}
+
+
+.button-grey{
+    color: rgb(173, 173, 173);
+    background-color: rgb(255, 255, 255);
+    border-color: grey;
+    border: 1px solid;
 }
 
 
